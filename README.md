@@ -1,2 +1,3 @@
 # Basic-first
-basic
+basic discrprition for this project 
+author - krishna
